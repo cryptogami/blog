@@ -20,7 +20,8 @@ plugins:
   
 authors:
     DrNykterstein:
-      name:           Daniel Leota
+      display:        [Daniel Leota]
+      name:           DrNykterstein
       site:           https://github.com/DrNykterstein
       avatar:         /assets/images/DrNykterstein.jpg
       bio:            "Put the bio here"
@@ -28,7 +29,8 @@ authors:
       twitter:        https://twitter.com/wowthemesnet
 
     andher96:
-      name:           Andherson Palacio
+      display:        [Andherson Palacio]
+      name:           andher96
       site:           https://github.com/andher96
       avatar:         /assets/images/andher96.jpg
       bio:            "Put the bio here"
