@@ -2,7 +2,7 @@
 layout: post
 title:  "The first mass-produced book to deviate from a rectilinear format"
 author: DrNykterstein
-categories: [ Articulos ]
+categories: [Articulos]
 image: assets/images/17.jpg
 tags: [Interes]
 ---
