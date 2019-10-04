@@ -2150,16 +2150,16 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0.2rem rgba(120, 50, 226, 0.5); }
 
 .btn-outline-success {
-  color: #03a87c;
+  color: #EB2F65;
   background-color: transparent;
   background-image: none;
-  border-color: #03a87c; }
+  border-color: #EB2F65; }
   .btn-outline-success:hover {
     color: #fff;
-    background-color: #03a87c;
-    border-color: #03a87c; }
+    background-color: #EB2F65;
+    border-color: #f00; }
   .btn-outline-success:focus, .btn-outline-success.focus {
-    box-shadow: 0 0 0 0.2rem rgba(3, 168, 124, 0.5); }
+    box-shadow: 0 0 0 0.2rem rgba(235, 47, 101, 0.57); }
   .btn-outline-success.disabled, .btn-outline-success:disabled {
     color: #03a87c;
     background-color: transparent; }
@@ -5147,6 +5147,10 @@ button.bg-lightblue:focus {
 .bg-white {
   background-color: #fff !important; }
 
+.bg-custom {
+  background-color: #E8EFFD !important; }
+}
+
 .bg-transparent {
   background-color: transparent !important; }
 
@@ -5154,7 +5158,7 @@ button.bg-lightblue:focus {
   border: 1px solid #e8f3ec !important; }
 
 .border-top {
-  border-top: 1px solid #e8f3ec !important; }
+  border-top: 1px solid #eb2f6540 !important; }
 
 .border-right {
   border-right: 1px solid #e8f3ec !important; }
