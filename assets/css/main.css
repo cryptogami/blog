@@ -2150,13 +2150,13 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0.2rem rgba(120, 50, 226, 0.5); }
 
 .btn-outline-success {
-  color: #EB2F65;
+  color: #00811F;
   background-color: transparent;
   background-image: none;
-  border-color: #EB2F65; }
+  border-color: #00811F; }
   .btn-outline-success:hover {
     color: #fff;
-    background-color: #EB2F65;
+    background-color: #00811F;
     border-color: #f00; }
   .btn-outline-success:focus, .btn-outline-success.focus {
     box-shadow: 0 0 0 0.2rem rgba(235, 47, 101, 0.57); }
@@ -2166,8 +2166,8 @@ fieldset:disabled a.btn {
   .btn-outline-success:not(:disabled):not(.disabled):active, .btn-outline-success:not(:disabled):not(.disabled).active,
   .show > .btn-outline-success.dropdown-toggle {
     color: #fff;
-    background-color: #03a87c;
-    border-color: #03a87c; }
+    background-color: #00811F;
+    border-color: #00811F; }
     .btn-outline-success:not(:disabled):not(.disabled):active:focus, .btn-outline-success:not(:disabled):not(.disabled).active:focus,
     .show > .btn-outline-success.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(3, 168, 124, 0.5); }
@@ -3503,7 +3503,7 @@ input[type="button"].btn-block {
   border-color: rgba(0, 0, 0, 0.1); }
 
 .navbar-light .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"); }
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"); }
 
 .navbar-light .navbar-text {
   color: rgba(0, 0, 0, 0.5); }
@@ -5148,7 +5148,7 @@ button.bg-lightblue:focus {
   background-color: #fff !important; }
 
 .bg-custom {
-  background-color: #eef5f4 !important; }
+  background-color: #232323 !important; }
 }
 
 .bg-transparent {
