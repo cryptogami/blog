@@ -36,6 +36,15 @@ authors:
       bio:            "Put the bio here"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+    
+    cryptogami:
+      display:        [Cryptogami]
+      name:           cryptogami
+      site:           https://github.com/cryptogami
+      avatar:         /assets/images/andher96.jpg
+      bio:            "Put the bio here"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
