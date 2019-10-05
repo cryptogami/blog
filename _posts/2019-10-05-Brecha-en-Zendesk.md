@@ -4,7 +4,7 @@ title:  "Brecha de seguridad en Zendesk, más de 10.000 cuentas afectadas"
 author: cryptogami
 categories: [ Noticias]
 image: assets/images/noticia-zendesk-portada.jpg
-tags: [ Tecnologia ]
+tags: [ Tecnologia,noticia,brecha ]
 ---
 La compañía de software de servicio al cliente, Zendesk, ha descubierto una brecha de seguridad que se remonta al año 2016 y ha afectado a miles de sus clientes.
 La empresa identificó el incidente la semana pasada y descubrieron que al menos 10.000 cuentas de *Zendesk Support* se vieron afectadas por un acceso no autorizado. Cabe resaltar que la empresa tiene clientes de alto perfil que pudieron verse afectados, tales como: Uber, 
