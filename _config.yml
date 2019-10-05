@@ -2,7 +2,7 @@
 name: 'Cryptogami'
 description: 'De la Consola a la Calle'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/crypto-logo.png'
 baseurl: '/blog'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
