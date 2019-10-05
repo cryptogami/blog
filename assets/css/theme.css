@@ -7,7 +7,7 @@ body {
 	padding-top:69.75px;
 }
 .site-content {
-	margin-top:30px;
+	margin-top:60px;
 	min-height:400px;
 }
 .remove-site-content-margin {
@@ -700,7 +700,7 @@ article h1,article h2,article h3,article h4,article h5,article h6,article .h1,ar
 	position:fixed;
 	bottom:0;
 	left:0;
-	background-color:#eef5f4;
+	background-color:#232323;
 	width:100%;
 	padding:20px 0;
 	z-index:1021;
