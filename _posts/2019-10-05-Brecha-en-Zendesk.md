@@ -10,7 +10,7 @@ La compañía de software de servicio al cliente, Zendesk, ha descubierto una br
 La empresa identificó el incidente la semana pasada y descubrieron que al menos 10.000 cuentas de *Zendesk Support* se vieron afectadas por un acceso no autorizado. Cabe resaltar que la empresa tiene clientes de alto perfil que pudieron verse afectados, tales como: Uber, 
 OpenTable y Airbnb.
 
-![zendesksupport](/assets/images/zendesk.png)
+[Zendesk](/assets/images/zendesk.png)
 
 Investigadores han reportado que se vieron afectadas las direcciones de correo, nombres, números de teléfono del personal de atención al cliente y las contraseñas de sus clientes.
 
