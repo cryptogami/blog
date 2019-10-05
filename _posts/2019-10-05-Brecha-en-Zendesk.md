@@ -12,6 +12,6 @@ OpenTable y Airbnb.
 
 Investigadores han reportado que se vieron afectadas las direcciones de correo, nombres, números de teléfono del personal de atención al cliente y las contraseñas de sus clientes.
 
-> Como medida de precaución, en las próximas 24 horas, estaremos comenzando a implementar intercambios de contraseñad para todo el personal del área de sooporte,Chat y todos nuestros usuarios. - **Explicó Zendesk**
+> Como medida de precaución, en las próximas 24 horas, estaremos comenzando a implementar intercambios de contraseñad para todo el personal del área de soporte,Chat y todos nuestros usuarios. - **Explicó Zendesk**
 
-Por ùltimo la firma instó a sus clientes a cambiar sus credenciales.
+Por último, la firma instó a sus clientes a cambiar sus credenciales.
