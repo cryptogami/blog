@@ -4,6 +4,7 @@ title:  "Criptografía: Una Introducción posible"
 categories: [ Articulos ]
 author: DrNykterstein
 image: assets/images/criptografia-intro/1.png
+tags:[ Articulos, Criptografia]
 ---
 ### Introducción
 Históricamente el ser humano siempre ha tenido la necesidad de mantener la privacidad de sus secretos y de sus comunicaciones, esto lo ha llevado a la búsqueda de diferentes mecanismos para lograrlo, en el caso de la información, si es transmitida por un canal inseguro, esta puede ser vista y modificada por manos indeseadas. Todas las técnicas y mecanismos que intentan asegurar la confidencialidad e integridad de la información que es transmitida por un canal es lo que se denomina como **criptografía**.
