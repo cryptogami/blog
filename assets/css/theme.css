@@ -631,7 +631,7 @@ ol.list-featured li:before {
     margin-right: 0.5rem;
     font-family: Arial;
     line-height: 1;
-    opacity: .1;
+    color: #00811F;
 }
 .catlist .sep:last-child {
 	display:none;
