@@ -3,7 +3,7 @@ layout: post
 title:  "8 Millones de apps maliciosas fueron descargadas desde Play Store"
 author: cryptogami
 categories: [ Noticia ]
-image: assets/images/noticia-android/banner-noticia.png
+image: assets/images/noticia-android/banner_noticia.png
 tags: [ Noticias, Tecnologia]
 ---
 Lukas Stefanko, investigador de seguridad de ESET, descubrió que 42 aplicaciones se encontraban alojadas en la Play Store de Google contenian **adware** malicioso que se mostraba en pantalla completa en los dispositivos de las víctimas. Todas estas aplicaciones eran subidas de forma legítima, pero aprovechaban las distintas actualizaciones para inyectar código malicoso.
