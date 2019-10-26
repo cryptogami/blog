@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "8 Millones de descargas obtuvieron apps maliciosas"
+title:  "Aplicaciones maliciosas obtuvieron 8 millones de descargas"
 author: cryptogami
 categories: [ Noticia ]
 image: assets/images/noticia-android/banner_noticia.png
