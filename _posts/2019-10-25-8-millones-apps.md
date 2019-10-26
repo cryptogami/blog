@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "8 Millones de apps maliciosas fueron descargadas desde Play Store"
+title:  "8 Millones de descargas obtuvieron apps maliciosas"
 author: cryptogami
 categories: [ Noticia ]
 image: assets/images/noticia-android/banner_noticia.png
